@@ -1,0 +1,23 @@
+{
+  "name": "readmemaker",
+  "version": "1.0.0",
+  "description": "program that makes readme files",
+  "main": "main.js",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GxPinheiro/readmeMaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GxPinheiro/readmeMaker/issues"
+  },
+  "homepage": "https://github.com/GxPinheiro/readmeMaker#readme"
+}
